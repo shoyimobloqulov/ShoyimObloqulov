@@ -1,5 +1,5 @@
-<!--
-**ShoyimObloqulov/ShoyimObloqulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Assalomu alaykum 👋
+ShoyimObloqulov/ShoyimObloqulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,10 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-### Assalomu alaykum 👋
-
-[![wakatime](https://wakatime.com/badge/user/ae14eaa3-2431-4080-9f3c-b3798bd1d0c3.svg)](https://wakatime.com/@ae14eaa3-2431-4080-9f3c-b3798bd1d0c3)
 
 ![MrMuminov's github stats](https://github-readme-stats.vercel.app/api?username=shoyimobloqulov&title_color=fff&text_color=fde&show_icons=true&theme=default&bg_color=30,642b73,c6426e)
 
