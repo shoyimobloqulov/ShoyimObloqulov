@@ -2,14 +2,17 @@
 ✉️ t.me/Obloqulov_Shoyim | @Obloqulov_Shoyim
 <!-- ![Obloqulov's github stats](https://github-readme-stats.vercel.app/api username=shoyimobloqulov&title_color=fff&text_color=fde&show_icons=true&theme=default&bg_color=30,642b73,c6426e)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoyimobloqulov&layout=compact&bg_color=30,642b73,c6426e&title_color=fff&text_color=fff&show_icons=true)
+
  -->
+<p>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoyimobloqulov&layout=compact&bg_color=30,642b73,c6426e&title_color=fff&text_color=fff&show_icons=true)
+</p>
 <a href="https://github.com/ShoyimObloqulov">
-    <p align="center">
+    <p>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShoyimObloqulov&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShoyimObloqulov&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShoyimObloqulov&theme=2077&utcOffset=5"><br>
-        <img src="https://leetcode-stats-six.vercel.app/api?username=biiuz&theme=dark" alt="Jokes Card" />    
+        <img src="https://leetcode-stats-six.vercel.app/api?username=ShoyimObloqulov&theme=dark" alt="Jokes Card" />    
     </p>
 </a> 
  <p align="center">
