@@ -6,7 +6,6 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShoyimObloqulov&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShoyimObloqulov&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShoyimObloqulov&theme=2077&utcOffset=5"><br>
-        <img src="https://leetcode-stats-six.vercel.app/api?username=ShoyimObloqulov&theme=dark" alt="Jokes Card" />    
     </p>
 </a> 
  <p align="center">
