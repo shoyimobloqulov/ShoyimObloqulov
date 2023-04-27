@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @obloqulovshoyim <br>- 👀 I’m interested in WEB <br>- 🌱 I’m currently learning PHP,SQL,JS<br>- 📫 How to reach me: https://obloqulovshoyim.t.me<br>- `My website`: http://asrorbek.uz/?utm_source=github_banner<br><br><br>[![wakatime](https://wakatime.com/badge/user/426c9c8b-dbe9-458b-a3eb-85a3d0fe1273.svg)](https://wakatime.com/@426c9c8b-dbe9-458b-a3eb-85a3d0fe1273)<br>
+- 👋 Hi, I’m @obloqulovshoyim <br>- 👀 I’m interested in WEB <br>- 🌱 I’m currently learning PHP,Laravel ,SQL,JS<br>- 📫 How to reach me: https://obloqulovshoyim.t.me<br>- 
 
 
 # 💻 Tech Stack:
