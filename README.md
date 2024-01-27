@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @obloqulovshoyim <br>- 👀 I’m interested in WEB <br>- 🌱 I’m currently learning PHP,Laravel ,SQL,JS<br>- 📫 How to reach me: https://obloqulovshoyim.t.me<br>
+- 👋 Hi, I’m @obloqulovshoyim <br>- 👀 I’m interested in WEB <br>- 🌱 I’m currently learning PHP,Laravel ,SQL,JS<br>- 📫 How to reach me: https://obloqulov_shoyim.t.me<br>
 
 
 # 💻 Tech Stack:
