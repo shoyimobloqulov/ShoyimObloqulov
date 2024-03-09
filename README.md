@@ -31,4 +31,4 @@
 </p>
 
 <hr />
-<a href="https://github.com/shoyimobloqulov?tab=repositories"><img src="https://github.com/shoyimobloqulov/ShoyimObloqulov/assets/92427513/151a5853-37bd-471f-8fb7-dea2a087cab5"> Show Repositories</a>
+<a href="https://github.com/shoyimobloqulov?tab=repositories" style="display:flex;align-items:">🧑‍💻 <span>Show Repositories</span></a>
