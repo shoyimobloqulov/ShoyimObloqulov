@@ -31,4 +31,4 @@
 </p>
 
 <hr />
-<a href="https://github.com/shoyimobloqulov?tab=repositories" style="display:flex;align-items:">🧑‍💻 <span>Show Repositories</span></a>
+<a href="https://github.com/shoyimobloqulov?tab=repositories" text="center">🧑‍💻 <span>Show Repositories</span></a>
