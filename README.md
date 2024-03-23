@@ -25,6 +25,9 @@
     </a>
   </div>
 </p>
-
+<br>
+[![Hits](https://hits.sh/github.com/khamdullaevuz.svg)](https://hits.sh/github.com/khamdullaevuz/)
+[![wakatime](https://wakatime.com/badge/user/000c077a-1c2c-49e3-a8de-257586c33f00.svg?sytle=flat)](https://wakatime.com/@000c077a-1c2c-49e3-a8de-257586c33f00)
 <hr />
+
 <a href="https://github.com/shoyimobloqulov?tab=repositories" text="center">🧑‍💻 <span>Show Repositories</span></a>
