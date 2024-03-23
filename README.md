@@ -30,8 +30,7 @@
 </p>
 <br>
 <hr />
-[![wakatime](https://wakatime.com/badge/user/c24f0300-03f5-418b-ac97-0a4580351790.svg?sytle=flat)](https://wakatime.com/@c24f0300-03f5-418b-ac97-0a4580351790)
-
+<img src="https://wakatime.com/badge/user/601c65c4-5a70-4304-98de-a4833f83a8f9/project/018e6039-f1a9-4500-b10d-c24e75b5a56a.svg">
 <img src="https://wakatime.com/share/@obloqulovshoyim/c24f0300-03f5-418b-ac97-0a4580351790.svg" width=500>
 
 <br>
