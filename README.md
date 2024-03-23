@@ -30,6 +30,6 @@
 </p>
 <br>
 <hr />
-[![wakatime](https://wakatime.com/badge/user/000c077a-1c2c-49e3-a8de-257586c33f00.svg?sytle=flat)](https://wakatime.com/@000c077a-1c2c-49e3-a8de-257586c33f00)
+<figure><embed src="https://wakatime.com/share/@obloqulovshoyim/02719b37-40ac-4f4d-a729-e33bfc7066e0.svg"></embed></figure>
 <br>
 <a href="https://github.com/shoyimobloqulov?tab=repositories" text="center">🧑‍💻 <span>Show Repositories</span></a>
