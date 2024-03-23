@@ -30,7 +30,7 @@
 </p>
 <br>
 <hr />
-<img src="https://wakatime.com/badge/user/601c65c4-5a70-4304-98de-a4833f83a8f9">
+<img src="https://wakatime.com/badge/601c65c4-5a70-4304-98de-a4833f83a8f9">
 <img src="https://wakatime.com/share/@obloqulovshoyim/c24f0300-03f5-418b-ac97-0a4580351790.svg" width=500>
 
 <br>
