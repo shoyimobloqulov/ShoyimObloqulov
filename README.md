@@ -31,5 +31,6 @@
     <img style="width: 30%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyimobloqulov&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </p>
-<a align=center href="https://github.com/shoyimobloqulov?tab=repositories">🔍 <span>Show Repositories</span></a>
-
+<div align=center>
+  <a href="https://github.com/shoyimobloqulov?tab=repositories">🔍 <span>Show Repositories</span></a>
+</div>
