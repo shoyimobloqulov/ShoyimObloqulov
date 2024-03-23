@@ -30,7 +30,7 @@
 </p>
 <br>
 <hr />
-[![Hits](https://hits.sh/github.com/shoyimobloqulov.svg)](https://hits.sh/github.com/shoyimobloqulov/)
+<a href="https://hits.sh/github.com/shoyimobloqulov/"><img alt="Hits" src="https://hits.sh/github.com/shoyimobloqulov.svg?view=today-total"/></a>
 <img src="https://wakatime.com/share/@obloqulovshoyim/c24f0300-03f5-418b-ac97-0a4580351790.svg" width=500>
 
 <br>
