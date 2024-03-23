@@ -30,6 +30,9 @@
 </p>
 <br>
 <hr />
+[![wakatime](https://wakatime.com/badge/user/c24f0300-03f5-418b-ac97-0a4580351790.svg?sytle=flat)](https://wakatime.com/@c24f0300-03f5-418b-ac97-0a4580351790)
+
 <img src="https://wakatime.com/share/@obloqulovshoyim/c24f0300-03f5-418b-ac97-0a4580351790.svg" width=500>
+
 <br>
 <a href="https://github.com/shoyimobloqulov?tab=repositories" text="center">🧑‍💻 <span>Show Repositories</span></a>
