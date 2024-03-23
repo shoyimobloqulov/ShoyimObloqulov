@@ -14,11 +14,11 @@
 <hr>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=shoyimobloqulov&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    <a href="https://github.com/shoyimobloqulov/" title="Go to Github profile">
+      <img align="left" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=shoyimobloqulov&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=shoyimobloqulov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/shoyimobloqulov/" title="Go to Github profile">
+      <img align="right" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=shoyimobloqulov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
