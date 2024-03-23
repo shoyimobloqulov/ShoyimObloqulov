@@ -15,10 +15,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/shoyimobloqulov/" title="Go to Github profile">
-      <img align="left" width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=shoyimobloqulov&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=shoyimobloqulov&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/shoyimobloqulov/" title="Go to Github profile">
-      <img align="right"  width=300 src="https://github-readme-stats.vercel.app/api?username=shoyimobloqulov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right"  width=450 src="https://github-readme-stats.vercel.app/api?username=shoyimobloqulov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
