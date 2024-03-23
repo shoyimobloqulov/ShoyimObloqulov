@@ -31,6 +31,7 @@
 <br>
 <hr />
 <a href="https://hits.sh/github.com/shoyimobloqulov/"><img alt="Hits" src="https://hits.sh/github.com/shoyimobloqulov.svg?view=today-total"/></a>
+<a href="https://wakatime.com/@601c65c4-5a70-4304-98de-a4833f83a8f9"><img src="https://wakatime.com/badge/user/601c65c4-5a70-4304-98de-a4833f83a8f9.svg" alt="Total time coded since May 19 2023" /></a>
 <img src="https://wakatime.com/share/@obloqulovshoyim/c24f0300-03f5-418b-ac97-0a4580351790.svg" width=500>
 
 <br>
