@@ -3,7 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Shoyim👨‍💻&center=true&size=30">
   </a>
 </h1>
-<a href="https://www.buymeacoffee.com/obloqulovsj"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=👨‍💻&slug=obloqulovsj&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+<hr>
+<a href="https://www.buymeacoffee.com/obloqulovsj" style="text-align:center;"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=👨‍💻&slug=obloqulovsj&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+<hr>
 <h5 align="center">
    <a href="https://www.linkedin.com/in/shoyim-obloqulov-9409b2296/" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://www.instagram.com/shoyim_obloqulov/" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
