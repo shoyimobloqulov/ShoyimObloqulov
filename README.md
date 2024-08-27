@@ -26,14 +26,12 @@
     <a href="https://github.com/shoyimobloqulov/" title="Go to Github profile">
       <img align="right"  width=400 src="https://github-readme-stats.vercel.app/api?username=shoyimobloqulov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img style="width: 30%;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyimobloqulov&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
   </div>
 </p>
-<br><br><br><br><br><br><br><br><br><br>
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="width: 30%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyimobloqulov&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-</p>
+
 <div align=center>
   <a href="https://github.com/shoyimobloqulov?tab=repositories">🔍 <span>Show Repositories</span></a>
 </div>
