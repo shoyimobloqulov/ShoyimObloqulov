@@ -20,9 +20,8 @@
 <hr>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/shoyimobloqulov/" title="Go to Github profile">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=shoyimobloqulov&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="shoyim-obloqulov-9409b2296" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uz.linkedin.com/in/shoyim-obloqulov-9409b2296?trk=profile-badge">Shoyim Obloqulov</a></div>
     <a href="https://github.com/shoyimobloqulov/" title="Go to Github profile">
       <img width=400 align="right" src="https://github-readme-stats.vercel.app/api?username=shoyimobloqulov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
