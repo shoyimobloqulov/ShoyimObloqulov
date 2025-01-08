@@ -20,7 +20,6 @@
 <hr>
 <p align=center>
   <div align=center>
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="shoyim-obloqulov-9409b2296" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uz.linkedin.com/in/shoyim-obloqulov-9409b2296?trk=profile-badge">Shoyim Obloqulov</a></div>
     <a href="https://github.com/shoyimobloqulov/" title="Go to Github profile">
       <img width=400 align="right" src="https://github-readme-stats.vercel.app/api?username=shoyimobloqulov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -32,3 +31,5 @@
 <div align=center>
   <a href="https://github.com/shoyimobloqulov?tab=repositories">🔍 <span>Show Repositories</span></a>
 </div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
