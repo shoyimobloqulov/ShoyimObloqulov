@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=shoyimobloqulov&color=blue&theme=onedark)
 
 - 🔭 I'm currently working nowhere.
-- 🌱 I’m currently learning WebDeveloper, PHP/Laravel
+- 🌱 I’m currently learning Web Developer, PHP/Laravel
 - 💬 Ask me about nothing :)
 - 📫 How to reach me: [@shoyimobloqulov](https://t.me/shoyimobloqulov) on telegram
 - 😄 Pronouns: zverbro, shoyim
