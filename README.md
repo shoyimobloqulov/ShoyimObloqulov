@@ -2,7 +2,7 @@
 
 ![shoyimobloqulov's github stats](https://github-readme-stats.vercel.app/api?username=shoyimobloqulov&show_icons=true&theme=default)
 
-![](https://komarev.com/ghpvc/?username=vodiylik&color=blue&theme=onedark)
+![](https://komarev.com/ghpvc/?username=shoyimobloqulov&color=blue&theme=onedark)
 
 - 🔭 I'm currently working nowhere.
 - 🌱 I’m currently learning WebDeveloper, PHP/Laravel
